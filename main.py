@@ -111,7 +111,7 @@ def response(voice):
             runApp =record()
             runApp =runApp.lower()
             if "death stranding" in runApp:
-                os.startfile("D:/FileHistory/Hp/MISO/Data/C/Users/Hp/Downloads/Death Stranding (2021_11_28 09_39_56 UTC).exe")
+                os.startfile("")
             elif "journey" in runApp:
                 os.startfile()
             else: 
